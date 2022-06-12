@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devops and testing
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on complete devops and testing
-- 📫 How to reach me  by email rohith.sgr@gmail.com
+- 📫 Reach me by email rohith.sgr@gmail.com
 
 <!---
 rohithsgr/rohithsgr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
